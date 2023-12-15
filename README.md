@@ -27,7 +27,7 @@ make sure to run mysql server before running the application.
 -------------------
 ## Rest Api
 
-### CREATE API
+### Create API
 <details>
 <summary>
 <code>POST</code>
