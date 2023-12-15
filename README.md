@@ -20,7 +20,12 @@ with MySQL DB.
 Go to src->main->resources->application.yaml file and change the source link of mysql according to you.
 make sure to run mysql server before running the application.
 
+clone the project
+
     git clone https://github.com/AbdulGaniShaikh/crud-rest-mysql.git
+
+build and run
+
     mvn package
     mvn spring-boot:run
 
